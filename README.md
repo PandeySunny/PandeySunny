@@ -1,7 +1,10 @@
 ## Hi there 👋
 # 💫 About Me:
-🎓 6th Semester B.Tech in Civil Engineering<br>📊 Aspiring Data Analyst & Data Scientist<br>💡 Passionate about Data Science, Machine Learning, and Analytics<br>👯 I’m looking to internship in Data Science Field<br>🌱 I’m currently learning Machine learning & Artificial Intelligence <br>
-
+🎓 **6th Semester B.Tech in Computer Engineering**  
+📊 **Power BI Developer | Data Analyst | Predictive Data Analyst | Business Analyst**  
+💡 **Aspiring Data Scientist | Passionate about Data Science, Machine Learning, and Analytics**  
+🎯 **Seeking Internship Opportunities in Data Science**  
+🌱 **Currently Advancing Skills in Machine Learning & Artificial Intelligence**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pandey-sunny-74025b260/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeysunny7087@gmail.com) 
