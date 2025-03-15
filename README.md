@@ -5,12 +5,12 @@
 💡 **Aspiring Data Scientist | Passionate about Data Science, Machine Learning, and Analytics**  
 🎯 **Seeking Internship Opportunities in Data Science**  
 🌱 **Currently Advancing Skills in Machine Learning & Artificial Intelligence**  
+📈 **Turning Raw Data into Actionable Insights**  
+🔍 **Exploring AI, Predictive Analytics & Business Intelligence**  
+🎯 **Seeking Internship Opportunities in Data Science**  
+💡 **Currently Learning:** Machine Learning & Artificial Intelligence  
+📌 **Skills:** Python, SQL, Power BI, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-## 🔧 Skills & Tools  
-- **Programming:** Python, SQL  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-learn
-- **Business Intelligence & Analytics**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pandey-sunny-74025b260/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeysunny7087@gmail.com) 
