@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🎓 **6th Semester B.Tech in Computer Engineering**  
+🎓 **7th Semester B.Tech in Computer Engineering**  
 📊 **Power BI Developer | Data Analyst | Predictive Data Analyst | Business Analyst**  
 💡 **Aspiring Data Scientist | Passionate about Data Science, Machine Learning, and Analytics**  
 🎯 **Seeking Internship Opportunities in Data Science**  
