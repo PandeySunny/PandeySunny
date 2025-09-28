@@ -1,15 +1,21 @@
-## Hi there 👋
-# 💫 About Me:
-🎓 **7th Semester B.Tech in Computer Engineering**  
-📊 **Power BI Developer | Data Analyst | Predictive Data Analyst | Business Analyst**  
-💡 **Aspiring Data Scientist | Passionate about Data Science, Machine Learning, and Analytics**  
-🎯 **Seeking Internship Opportunities in Data Science**  
-🌱 **Currently Advancing Skills in Machine Learning & Artificial Intelligence**  
-📈 **Turning Raw Data into Actionable Insights**  
-🔍 **Exploring AI, Predictive Analytics & Business Intelligence**  
-🎯 **Seeking Internship Opportunities in Data Science**  
-💡 **Currently Learning:** Machine Learning & Artificial Intelligence  
-📌 **Skills:** Python, SQL, Power BI, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+## Hi there 
+👋💫 ***About Me***
+🎓 **7th Semester B.Tech in Computer Engineering
+🌊 To me, a database is like a vast sea — I’m always eager to dive deeper, automate processes, and engineer pipelines that make data flow seamlessly.
+⚙️ Passionate about Automation & Data Engineering
+📊 Future Data Engineer | Database Administrator | BI Developer | Data Analyst | Business Analyst
+💡 Aspiring Data Scientist | Exploring Data Science, Machine Learning & Analytics
+🎯 Focused on building scalable data pipelines, automating workflows, and managing large datasets
+🌱 Currently sharpening skills in Machine Learning, Artificial Intelligence & Cloud Data Engineering
+📈 Transforming raw data into structured insights for better decision-making
+🔍 Interested in ETL, Data Warehousing, Predictive Analytics & Business Intelligence**
+
+📌 Core Skills:
+
+🐍 **Python | ⚙️ Automation | 🛢️ SQL & Databases
+📊 Power BI, Data Visualization (Matplotlib, Seaborn)
+🔗 Pandas, NumPy, Scikit-learn (Data Analysis & ML)
+🏗️ ETL Pipelines | Data Modeling | Workflow Automation**
 
 
 ## 🌐 Socials:
