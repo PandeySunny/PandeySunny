@@ -1,14 +1,14 @@
 ## Hi there 
 👋💫 ***About Me***
-🎓 **7th Semester B.Tech in Computer Engineering
-🌊 To me, a database is like a vast sea — I’m always eager to dive deeper, automate processes, and engineer pipelines that make data flow seamlessly.
-⚙️ Passionate about Automation & Data Engineering
-📊 Future Data Engineer | Database Administrator | BI Developer | Data Analyst | Business Analyst
-💡 Aspiring Data Scientist | Exploring Data Science, Machine Learning & Analytics
-🎯 Focused on building scalable data pipelines, automating workflows, and managing large datasets
-🌱 Currently sharpening skills in Machine Learning, Artificial Intelligence & Cloud Data Engineering
-📈 Transforming raw data into structured insights for better decision-making
-🔍 Interested in ETL, Data Warehousing, Predictive Analytics & Business Intelligence**
+🎓 **7th Semester B.Tech in Computer Engineering**
+🌊 **To me, a database is like a vast sea — I’m always eager to dive deeper, automate processes, and engineer pipelines that make data flow seamlessly.**
+⚙️ **Passionate about Automation & Data Engineering**
+📊 **Future Data Engineer | Database Administrator | BI Developer | Data Analyst | Business Analyst**
+💡 **Aspiring Data Scientist | Exploring Data Science, Machine Learning & Analytics**
+🎯 **Focused on building scalable data pipelines, automating workflows, and managing large datasets**
+🌱 **Currently sharpening skills in Machine Learning, Artificial Intelligence & Cloud Data Engineering**
+📈 **Transforming raw data into structured insights for better decision-making**
+🔍 **Interested in ETL, Data Warehousing, Predictive Analytics & Business Intelligence**
 
 📌 Core Skills:
 
