@@ -1,21 +1,32 @@
-## Hi there 
-👋💫 ***About Me***
-🎓 **7th Semester B.Tech in Computer Engineering**
-🌊 **To me, a database is like a vast sea — I’m always eager to dive deeper, automate processes, and engineer pipelines that make data flow seamlessly.**
-⚙️ **Passionate about Automation & Data Engineering**
-📊 **Future Data Engineer | Database Administrator | BI Developer | Data Analyst | Business Analyst**
-💡 **Aspiring Data Scientist | Exploring Data Science, Machine Learning & Analytics**
-🎯 **Focused on building scalable data pipelines, automating workflows, and managing large datasets**
-🌱 **Currently sharpening skills in Machine Learning, Artificial Intelligence & Cloud Data Engineering**
-📈 **Transforming raw data into structured insights for better decision-making**
+# 💫 About Me
+
+🎓 **7th Semester B.Tech in Computer Engineering**  
+🌊 **To me, a database is like a vast sea — I’m always eager to dive deeper, automate processes, and engineer pipelines that make data flow seamlessly.**  
+⚙️ **Passionate about Automation & Data Engineering**  
+📊 **Future Data Engineer | Database Administrator | BI Developer | Data Analyst | Business Analyst**  
+💡 **Aspiring Data Scientist | Exploring Data Science, Machine Learning & Analytics**  
+🎯 **Focused on building scalable data pipelines, automating workflows, and managing large datasets**  
+🌱 **Currently sharpening skills in Machine Learning, Artificial Intelligence & Cloud Data Engineering**  
+📈 **Transforming raw data into structured insights for better decision-making**  
 🔍 **Interested in ETL, Data Warehousing, Predictive Analytics & Business Intelligence**
 
-📌 Core Skills:
+---
 
-🐍 **Python | ⚙️ Automation | 🛢️ SQL & Databases
-📊 Power BI, Data Visualization (Matplotlib, Seaborn)
-🔗 Pandas, NumPy, Scikit-learn (Data Analysis & ML)
-🏗️ ETL Pipelines | Data Modeling | Workflow Automation**
+## 📌 Core Skills
+
+- 🐍 **Python** | ⚙️ **Automation** | 🛢️ **SQL & Databases**  
+- 📊 **Power BI, Data Visualization (Matplotlib, Seaborn)**  
+- 🔗 **Pandas, NumPy, Scikit-learn (Data Analysis & ML)**  
+- 🏗️ **ETL Pipelines | Data Modeling | Workflow Automation**
+
+---
+
+## 🎯 Future Goals
+
+- Build expertise in **Big Data**, **Cloud Platforms (AWS/Azure/GCP)**, and **Real-time Data Engineering**  
+- Develop advanced **predictive analytics** and **machine learning pipelines**  
+- Contribute to **automation-driven data solutions** that make business insights faster and smarter
+
 
 
 ## 🌐 Socials:
