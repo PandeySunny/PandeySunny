@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎓 **7th Semester B.Tech in Computer Engineering**  
+🎓 **8th Semester B.Tech in Computer Engineering**  
 🌊 **To me, a database is like a vast sea — I’m always eager to dive deeper, automate processes, and engineer pipelines that make data flow seamlessly.**  
 ⚙️ **Passionate about Automation & Data Engineering**  
 📊 **Future Data Engineer | Database Administrator | BI Developer | Data Analyst | Business Analyst**  
