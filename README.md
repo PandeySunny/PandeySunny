@@ -153,3 +153,9 @@ Raw Data  ──►  ETL  ──►  Data Warehouse  ──►  BI Layer  ──
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7c3aed&height=120&section=footer" />
 
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
