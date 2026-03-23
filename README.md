@@ -114,16 +114,6 @@ Raw Data  ──►  ETL  ──►  Data Warehouse  ──►  BI Layer  ──
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PandeySunny&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -133,21 +123,3 @@ Raw Data  ──►  ETL  ──►  Data Warehouse  ──►  BI Layer  ──
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PandeySunny/PandeySunny/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7c3aed&height=120&section=footer" />
-
-*"Data is not just numbers — it's the story waiting to be told."* 🌊
-
-</div>
