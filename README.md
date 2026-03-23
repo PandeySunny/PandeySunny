@@ -1,86 +1,77 @@
-<h2 align="left">Hi 👋! My name is Sunny Pandey and I'm a Data Engineering Enthusiast, from India 🇮🇳</h2>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PandeySunny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PandeySunny&layout=compact&langs_count=6&theme=dracula" height="150" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
-
-## 💫 About Me
-
-🎓 **8th Semester B.Tech in Computer Engineering**  
-🌊 *To me, a database is like a vast sea — I’m always eager to dive deeper, automate processes, and engineer pipelines that make data flow seamlessly.*  
-
-⚙️ Passionate about **Automation & Data Engineering**  
-📊 Future **Data Engineer | BI Developer | Data Analyst**  
-💡 Exploring **Data Science, Machine Learning & Analytics**  
-
-🎯 Focused on building **scalable data pipelines & workflow automation**  
-🌱 Currently learning **Machine Learning, AI & Cloud Data Engineering**  
-📈 Transforming raw data into **actionable insights**  
-🔍 Interested in **ETL, Data Warehousing & Business Intelligence**
-
----
-
-## 📌 Core Skills
-
-- 🐍 **Python | Automation | Data Processing**  
-- 🛢️ **SQL | MySQL | PostgreSQL | SQL Server**  
-- 📊 **Power BI | Matplotlib | Seaborn | Plotly**  
-- 🔗 **Pandas | NumPy | Scikit-learn**  
-- 🏗️ **ETL Pipelines | Data Modeling | Workflow Automation**
-
----
-
-## 🎯 Future Goals
-
-- 🚀 Master **Big Data & Cloud Platforms (AWS, Azure, GCP)**  
-- ⚡ Build **real-time data pipelines**  
-- 📊 Develop **ML-powered analytics systems**  
-- 🔄 Create **automation-driven data solutions**
-
----
-
-## 💻 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pandey-sunny-74025b260/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://www.linkedin.com/in/pandey-sunny-74025b260/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:pandeysunny7087@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PandeySunny.PandeySunny" />
+</div>
 
-<img src="https://raw.githubusercontent.com/PandeySunny/PandeySunny/output/snake.svg" alt="Snake animation" />
+###
+
+<h1 align="center">Hey there 👋 I'm Sunny Pandey</h1>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">
+🎓 I'm an <b>8th Semester B.Tech Computer Engineering student</b> from India 🇮🇳<br><br>
+
+🔭 I’m currently focused on <b>Data Engineering & Automation</b><br>
+📚 I'm learning <b>Machine Learning, AI & Cloud Data Engineering</b><br>
+⚡ I enjoy building <b>data pipelines, automating workflows, and analyzing datasets</b><br><br>
+
+🌊 I see databases like a vast sea — always exploring deeper layers and building systems that make data flow seamlessly.<br><br>
+
+📊 Aspiring <b>Data Engineer | BI Developer | Data Analyst</b><br>
+🔍 Interested in <b>ETL, Data Warehousing, Predictive Analytics & Business Intelligence</b>
+</p>
+
+###
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</div>
+
+###
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PandeySunny&theme=dark&hide_border=false" height="220" />
+</div>
 
 ###
