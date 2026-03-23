@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4aa&height=200&section=header&text=Sunny%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20BI%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=650&lines=Building+Data+Pipelines+%F0%9F%9A%80;Automating+Workflows+%E2%9A%A1;Exploring+ML+%26+AI+%F0%9F%A4%96;Turning+Raw+Data+into+Insights+%F0%9F%93%8A;Future+Data+Engineer+%7C+BI+Developer+%F0%9F%8C%8A)](https://git.io/typing-svg)
+[(https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=650&lines=Building+Data+Pipelines+%F0%9F%9A%80;Automating+Workflows+%E2%9A%A1;Exploring+ML+%26+AI+%F0%9F%A4%96;Turning+Raw+Data+into+Insights+%F0%9F%93%8A;Future+Data+Engineer+%7C+BI+Developer+%F0%9F%8C%8A)](https://git.io/typing-svg)
 
 <br>
 
@@ -46,7 +46,7 @@ class SunnyPandey:
 
 ```
 Raw Data  ──►  ETL  ──►  Data Warehouse  ──►  BI Layer  ──►  ML / AI  ──►  Insights
-   📥              🔄              🗄️                   📊               🤖              💡
+   📥          🔄            🗄️                📊             🤖           💡
 ```
 
 ---
@@ -61,7 +61,7 @@ Raw Data  ──►  ETL  ──►  Data Warehouse  ──►  BI Layer  ──
 | 🔗 Data Libraries | Pandas · NumPy · Scikit-learn · SciPy |
 | 🏗️ Engineering | ETL Pipelines · Data Modeling · Workflow Automation |
 | ☁️ Cloud | AWS · Azure (Learning) · GCP (Learning) |
-| 🔧 Tools | Git · GitHub · VS Code · Linux |
+| 🔧 Tools | Git · GitHub · VS Code |
 
 ---
 
