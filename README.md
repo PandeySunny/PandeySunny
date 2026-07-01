@@ -17,11 +17,17 @@ class SunnyPandey:
 ```
 
 🎓 **8th Semester B.Tech in Computer Engineering**
+
 🌊 To me, a database is like a vast sea — I'm always eager to dive deeper, automate processes, and engineer pipelines that make data flow seamlessly.
+
 ⚙️ Passionate about **Automation & Data Engineering**
+
 📈 Transforming raw data into structured insights for better decision-making
+
 🎯 Focused on building **scalable data pipelines**, automating workflows, and managing large datasets
+
 🌱 Currently sharpening skills in **Machine Learning, AI & Cloud Data Engineering**
+
 🔍 Interested in **ETL, Data Warehousing, Predictive Analytics & Business Intelligence**
 
 ---
